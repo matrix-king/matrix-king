@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matrix-king
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Mechatronics
+- 🌱 I’m currently a Mechatronics Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
